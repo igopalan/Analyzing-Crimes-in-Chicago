@@ -1,11 +1,8 @@
 # Analyzing-Crimes-in-Chicago
-Using the Chicago Data Portal https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2 I analyzed 5.3 million reported crimes in Chicago from 2003 to 2018, and then narrowed my focus to 2018. 
-What factors contribute to a crime being violent or property related?¶
-Where/When Violent or Property crimes may occur?
-Overall crime, as categorized either 'Violent' or 'Property' related, has steadily declined year over year.
+Chicago has frequently made the news for its high murder rate and gun violence, including being admonished by the Trump Administration in 2017. However, overall crime and homicides decreased year over year, making the city safer today despite what various news sources report.
+The Chicago Data Portal https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2, was used.
+This project utilizes supervised and unsupervised learning techniques to analyze reported crimes across Chicago (specifically crimes that are classified as either Violent, or Property related), from 2003 through 2018. Further exploration continues for crimes reported in 2018. The readers of this report will be able to understand the following upon completion:
 
-The homicide rate also decreased as well.
-
-Crimes involving a gun resulted in incidents categorized as 'Violent', though not all violent crimes included a weapon.
-
-Violent crimes were more related to the day (weekend), where as Property crimes were associated to the hour.
+1. Is Chicago safer today?
+2. What factors contribute to a crime being violent or property related?
+3. Where/When Violent or Property crimes may occur?¶
